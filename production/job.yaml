@@ -8,7 +8,7 @@ inputs:
     type: uri_file
     path: azureml:iris:1
 environment: azureml://registries/azureml/environments/sklearn-1.1/versions/14
-compute: practical3-ml-compute
-display_name: Lab3-Samuel
-experiment_name: Lab3-Samuel
-description: Practical3 demo(Sk-Learn Iris Example)
+compute: lab6-computer
+display_name: Lab6-Samuel
+experiment_name: Lab6-Samuel
+description: Practical6 demo(Sk-Learn Iris Example)
